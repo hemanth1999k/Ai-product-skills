@@ -1,0 +1,7 @@
+{
+  "name": "Metrics & Analytics",
+  "description": "NSM, heuristic evaluation, A/B tests, multivariate tests, p-values, cohort analysis, TROPIC RCA",
+  "version": "1.0.0",
+  "skills_dir": "skills",
+  "commands_dir": "commands"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Prioritization & Goals",
+  "description": "RICE, weighted scoring, short/long-term goals, MoSCoW, Kano, opportunity scoring",
+  "version": "1.0.0",
+  "skills_dir": "skills",
+  "commands_dir": "commands"
+}

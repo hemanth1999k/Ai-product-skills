@@ -1,0 +1,7 @@
+{
+  "name": "Release & QA",
+  "description": "QA test plans, ship/no-ship logic, acceptance criteria, bug triage, rollback plans, test scenarios",
+  "version": "1.0.0",
+  "skills_dir": "skills",
+  "commands_dir": "commands"
+}

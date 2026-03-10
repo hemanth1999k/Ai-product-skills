@@ -1,0 +1,7 @@
+{
+  "name": "User Research",
+  "description": "Research planning, interviews, surveys, personas, journey maps, synthesis",
+  "version": "1.0.0",
+  "skills_dir": "skills",
+  "commands_dir": "commands"
+}
