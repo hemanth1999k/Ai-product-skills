@@ -271,14 +271,3 @@ This marketplace encodes frameworks from people whose work I come back to again 
 
 ---
 
-## Contributing
-
-This is a living project. New frameworks, sharper skills, better orchestration. It will keep growing as I use it and as I learn what is missing.
-
-If you build with Claude Code or work in the AI product space and have something worth adding, open a PR. See [CONTRIBUTING.md](CONTRIBUTING.md).
-
----
-
-## License
-
-MIT - see [LICENSE](LICENSE).
