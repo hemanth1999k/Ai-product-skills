@@ -11,7 +11,7 @@ I have been following **[Paweł Huryn](https://www.productcompass.pm)** for a wh
 
 This one is for **AI product builders**: people who ship things using Claude Code, who are deep in the build, and who need structured thinking on demand, not a PM textbook.
 
-My background is going through interview loops at **Meta and Google**, doing team match, and spending a lot of time studying what frameworks actually hold up under pressure versus which ones just sound good in a blog post. I also pull heavily from **[Lewis Lin](https://www.lewis-lin.com)** - his TROPIC framework for metric diagnosis is something I use constantly, and his approach to structured product thinking runs through a lot of what is in here.
+My background is going through interview loops at **Meta and Google**, and spending a lot of time studying and working with certain frameworks actually hold up under pressure versus which ones just sound good in a blog post. I also pull heavily from **[Lewis Lin](https://www.lewis-lin.com)** - his TROPIC framework for metric diagnosis is something I use constantly, and his approach to structured product thinking runs through a lot of what is in here.
 
 This is the collection of everything I have found genuinely useful. It will keep growing. You can contribute too.
 
