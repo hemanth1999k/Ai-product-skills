@@ -44,23 +44,10 @@ Also supported: Claude Cowork, Cursor, Gemini CLI, Codex, Kiro.
 
 ### Claude Code (Primary)
 ```bash
-claude plugin marketplace add your-github-username/product-skills
+claude plugin marketplace add hemanth1999k/product-skills
 
 claude plugin install discovery@product-skills
-claude plugin install user-research@product-skills
-claude plugin install metrics-analytics@product-skills
-claude plugin install prioritization-goals@product-skills
-claude plugin install product-execution@product-skills
-claude plugin install release-qa@product-skills
-claude plugin install compliance-legal@product-skills
-claude plugin install market-strategy@product-skills
-```
-
-### Claude Cowork
-1. Open **Customize** at the bottom left
-2. Go to **Browse plugins > Personal > +**
-3. Select **Add marketplace from GitHub**
-4. Enter: `your-github-username/product-skills`
+claude plugin install user-research@product-skills  
 
 ### Cursor / Gemini CLI / Codex / Kiro
 ```bash
@@ -79,7 +66,7 @@ done
 
 ## 8 Plugins, 58 Skills, 22 Commands
 
----
+---                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
 
 ### 1. Product Discovery
 *8 skills · 3 commands*
